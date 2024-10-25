@@ -1,0 +1,2 @@
+# WinGrid
+ The Grid Overlay Application is a WPF (Windows Presentation Foundation) application that provides a customizable grid overlay on your screen. It allows users to visualize grid lines with adjustable spacing and transparency, making it ideal for various applications such as design, trading, and data visualization.  This application runs in fullscreen mode and stays on top of other windows, offering a transparent background that lets you interact with other applications while maintaining a visible grid for reference.
