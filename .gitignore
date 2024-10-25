@@ -61,3 +61,4 @@ bin/Release/net8.0-windows/WinGrid.runtimeconfig.json
 /.vs
 /.vs
 /obj
+/.vs
