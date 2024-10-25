@@ -57,3 +57,7 @@ dkms.conf
 .vs/WinGrid/v17/DocumentLayout.json
 bin/Release/net8.0-windows/WinGrid.deps.json
 bin/Release/net8.0-windows/WinGrid.runtimeconfig.json
+.vs/WinGrid/v17/.suo
+/.vs
+/.vs
+/obj
